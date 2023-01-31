@@ -1,7 +1,1 @@
-안녕하세요! 
-git & github 입니다.
-hello world
-git good great!
-안녕하세요
-hihihihihih~
-hello~~
+안녕하세요.
